@@ -6,7 +6,8 @@ const Services = () => {
     "Lawn Mowing",
     "Trimming & Edging",
     "Seasonal Cleanup",
-    "Fertilization"
+    "Landscaping",
+    "Retaining Walls",
   ];
 
   return (
