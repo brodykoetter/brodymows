@@ -6,14 +6,6 @@ const Contact = () => {
     <div id="contact" className="contact">
       <h2>Contact Us</h2>
       <div className="contact-container">
-        {/* Owner's Contact Information */}
-        <div className="contact-info">
-          <h3>Owner: Brody Koetter</h3>
-          <p>📞 <a href="tel:6123609041">(612) 360-9041</a></p>
-          <p>📧 <a href="mailto:brodykoetter@gmail.com">brodykoetter@gmail.com</a></p>
-          <p>📍 Serving Ham Lake, MN</p>
-        </div>
-
         {/* Contact Form */}
         <form className="contact-form">
           <input type="text" placeholder="Your Name" required />
@@ -22,6 +14,13 @@ const Contact = () => {
           <textarea placeholder="Your Message" rows="5" required></textarea>
           <button type="submit">Send Message</button>
         </form>
+        {/* Owner's Contact Information */}
+        <div className="contact-info">
+          <h3>Owner: Brody Koetter</h3>
+          <p>📞 <a href="tel:6123609041">(612) 360-9041</a></p>
+          <p>📧 <a href="mailto:brodykoetter@gmail.com">brodykoetter@gmail.com</a></p>
+          <p>📍 Serving Ham Lake, MN</p>
+        </div>
       </div>
     </div>
   );

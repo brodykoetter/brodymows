@@ -333,3 +333,6 @@ body {
   .back-to-top:hover {
     background: #006400;
   }
+  html {
+    scroll-behavior: smooth;
+}
