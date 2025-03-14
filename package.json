@@ -1,7 +1,7 @@
 {
   "name": "kllawn.com",
   "version": "0.2.0",
-  "homepage": "https://brodykoetter.github.io/kllawn",
+  "homepage": "https://kllawn.com",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
