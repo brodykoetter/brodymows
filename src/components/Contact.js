@@ -85,7 +85,7 @@ const Contact = () => {
           <h3>Owner: Brody Koetter</h3>
           <p>📞 <a href="tel:6123609041">(612) 360-9041</a></p>
           <p>📧 <a href="mailto:brodykoetter@gmail.com">brodykoetter@gmail.com</a></p>
-          <p>📍 Serving Ham Lake, MN</p>
+          <p>📍 Northern Twin Cities, MN Suburbs</p>
         </div>
       </div>
 
