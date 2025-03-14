@@ -6,7 +6,7 @@ const Hero = () => {
     <div
       className="hero"
       style={{
-        backgroundImage: "url('https://media.angi.com/s3fs-public/professional-lawn-care-service-649824539.jpg')",
+        backgroundImage: `url("/images/lawn1.jpg")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "80vh",
