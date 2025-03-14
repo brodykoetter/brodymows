@@ -6,7 +6,7 @@ const Hero = () => {
     <div
       className="hero"
       style={{
-        backgroundImage: `url("https://onedrive.live.com/download?resid=98e59a74-95b6-42f6-84d7-b202f86b8f40")`,
+        backgroundImage: `url("blob:https://photos.onedrive.com/c33a97fe-67bb-4d74-a583-e24c0c7dc4a4")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "80vh",
