@@ -6,7 +6,7 @@ const Hero = () => {
     <div
       className="hero"
       style={{
-        backgroundImage: `url("/images/lawn1.jpg")`,
+        // backgroundImage: `url("/images/lawn1.jpg")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "80vh",
