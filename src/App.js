@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
-import Testimonials from "./components/Testimonials";
+import Mission from "./components/Mission";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import BackToTop from "./components/BackToTop"; // Import the button
@@ -22,7 +22,7 @@ function App() {
       <Navbar />
       <Hero />
       <Services />
-      <Testimonials />
+      <Mission />
       <Contact />
       <Footer />
       <BackToTop /> {/* Add the floating button */}

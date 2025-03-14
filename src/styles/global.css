@@ -66,19 +66,39 @@ body {
     width: 200px;
 }
 
-/* Testimonials */
-.testimonials {
-    background: #d4edda;
-    padding: 50px 20px;
+/* Our Mission */
+/* Mission Section */
+.mission {
     text-align: center;
+    background: #f0f8f0; /* Soft green background */
+    padding: 50px 20px;
 }
 
-.testimonial {
+.mission h2 {
+    font-size: 2.5rem;
+    color: #006400; /* Dark green for contrast */
+    margin-bottom: 20px;
+}
+
+.mission-content {
+    max-width: 800px;
+    margin: auto;
     background: white;
-    padding: 15px;
-    margin: 10px auto;
-    border-radius: 5px;
-    width: 80%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.mission-content p {
+    font-size: 1.2rem;
+    color: #333;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.mission-content strong {
+    color: #008000; /* Emphasized words */
 }
 
 /* Footer */
@@ -120,6 +140,15 @@ body {
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Status */
+.form-status {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #008000;
+    font-weight: bold;
+    text-align: center;
 }
 
 /* OWNER INFO BOX */

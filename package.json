@@ -1,7 +1,7 @@
 {
-  "name": "brodymows",
-  "version": "0.1.0",
-  "homepage": "https://brodykoetter.github.io/brodymows",
+  "name": "kllawn.com",
+  "version": "0.2.0",
+  "homepage": "https://brodykoetter.github.io/kllawn",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
