@@ -66,6 +66,12 @@ body {
     width: 200px;
 }
 
+.services h2 {
+  font-size: 2.5rem;
+  color: #006400; /* Dark green for contrast */
+  margin-bottom: 20px;
+}
+
 /* Our Mission */
 /* Mission Section */
 .mission {
@@ -121,7 +127,8 @@ body {
 }
 
 .contact h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    color: #006400; /* Dark green for contrast */
     margin-bottom: 20px;
 }
 
